@@ -1,7 +1,3 @@
--- (4) İlişkisel cebir ifadelerinin yazılması.
--- • Oluşturduğunuz tabloları kullanarak 3 farklı ilişkisel cebir sorgusu yazınız.
-
-
 -- "Pet" tablosu ile "Owner" tablosunu "OwnerID" alanı üzerinden birleştirir ve her evcil hayvanın sahibinin bilgileriyle birlikte sonuçları listeler.
 SELECT Pet.*, Owner.*
 FROM Pet
