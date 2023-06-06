@@ -1,5 +1,3 @@
--- (7) Proje ile ilgili STORED PROCEDURE (saklı yordamlar) oluşturulması.
-
 -- Evcil hayvanların bilgilerini listeleyen bir sorgu yapar.
 CREATE PROCEDURE ListPets
 AS
