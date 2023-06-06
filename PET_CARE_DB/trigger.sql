@@ -1,5 +1,3 @@
--- (8) Proje ile ilgili TRIGGER (tetikleyici) oluşturulması.
-
 -- Tabloya yeni bir randevu eklenirken, randevu tarihini kontrol etmek için bir trigger yazalım.
 CREATE TRIGGER CheckAppointmentDate
 ON Appointment
