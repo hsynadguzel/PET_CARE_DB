@@ -1,5 +1,3 @@
--- (6) Proje ile ilgili SELECT sorgularının oluşturulması.
-
 -- En pahalı hizmeti satın alan sahibin adı ve soyadı
 SELECT FirstName, LastName
 FROM Owner
